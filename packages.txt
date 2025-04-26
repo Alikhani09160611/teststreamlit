@@ -1,0 +1,5 @@
+xvfb
+x11-utils
+python3-tk
+tcl-dev
+tk-dev
